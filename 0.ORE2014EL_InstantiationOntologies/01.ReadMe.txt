@@ -1,0 +1,9 @@
+﻿This folder contains the 1941 OWL 2 EL Ontologies directly copied from ORE 2014 Instantiation dataset. 
+
+These ontologies are used for experimenting with reasoners: ELK.0.4.3, JFaCT.1.2.4 and TrOWL.1.5. 
+
+356 of these ontologies (which have an ABox intensity >= 5.0) are used for data augmentation as stored in the folder "1.DataAugmentation". 
+
+* All experiments about measuring metrics and getting execution times are made on Java SE 7 Update 121 with Ubuntu 14.04 LTS OS. The processor of the desktop computer was "Intel® Core™ i5-3470 CPU @ 3.20GHz × 4". The machine had 16 GB RAM (2 x  8192 MB DDR3 1600 MHz). 
+
+* R Environment: R version 3.3.1 (2016-06-21), Platform: x86_64-w64-mingw32/x64 (64-bit), OS: Windows 8.1 (64-bit), Java 7 Update 80 (64-bit)
