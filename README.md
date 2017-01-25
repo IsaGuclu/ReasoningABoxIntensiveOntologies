@@ -3,7 +3,7 @@ Predicting Reasoner Performance on ABox Intensive OWL 2 EL Ontologies
 
 This repository contains all experimental setup used in the work of Pan et al.
 
-Every folder under root folder contains resources used in this step with explanation.
+Every folder under root folder contains resources used in the related step with their explanation.
 
 Source code of "Measuring 51 Metrics" and "Data Augmentation" can be reached from:
 http://sid.cps.unizar.es/projects/OWL2Predictions/IJSWIS17/
