@@ -1,4 +1,4 @@
-# ReasoningABoxIntensiveOntologies
+# Predicting Reasoner Performance on ABox Intensive OWL 2 EL Ontologies
 Predicting Reasoner Performance on ABox Intensive OWL 2 EL Ontologies
 
 This repository contains all experimental setup used in the work of Pan et al.
