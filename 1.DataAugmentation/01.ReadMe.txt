@@ -1,0 +1,9 @@
+﻿This folder (DataAugmentation) contains the 3858 ontology set (dataset-2), the 356 ontology set that is used for generating dataset-2, executable jar (OWL2Predictions.jar) for realizing this data augmentation and shell script (ChopOntologies.sh) to run this executable jar.
+(The source code of this executable jar can be reached from http://sid.cps.unizar.es/projects/OWL2Predictions/IJSWIS17/)
+
+In these scripts, researcher will just need to update the folder address of the ontologies accordingly.
+
+* All experiments about measuring metrics and getting execution times are made on Java SE 7 Update 121 with Ubuntu 14.04 LTS OS. The processor of the desktop computer was "Intel® Core™ i5-3470 CPU @ 3.20GHz × 4". The machine had 16 GB RAM (2 x  8192 MB DDR3 1600 MHz). 
+
+* R Environment: R version 3.3.1 (2016-06-21), Platform: x86_64-w64-mingw32/x64 (64-bit), OS: Windows 8.1 (64-bit), Java 7 Update 80 (64-bit)
+ 
