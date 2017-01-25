@@ -1,6 +1,6 @@
 ﻿This folder contains the 1941 OWL 2 EL Ontologies directly copied from ORE 2014 Instantiation dataset. 
 
-These ontologies are used for experimenting with reasoners: ELK.0.4.3, JFaCT.1.2.4 and TrOWL.1.5. 
+These ontologies are used as "dataset-1" for experimenting with reasoners: ELK.0.4.3, JFaCT.1.2.4 and TrOWL.1.5. 
 
 356 of these ontologies (which have an ABox intensity >= 5.0) are used for data augmentation as stored in the folder "1.DataAugmentation". 
 
