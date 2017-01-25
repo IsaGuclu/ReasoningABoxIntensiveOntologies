@@ -1,6 +1,4 @@
 # Predicting Reasoner Performance on ABox Intensive OWL 2 EL Ontologies
-Predicting Reasoner Performance on ABox Intensive OWL 2 EL Ontologies
-
 This repository contains all experimental setup used in the work of Pan et al.
 
 Every folder under root folder contains resources used in the related step with their explanation.
