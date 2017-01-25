@@ -1,0 +1,12 @@
+﻿This folder (CreatingPredictionModels) contains R-Scripts, raw data prepared to be processed by R Environment, results we obtained in our experiments and analysis we made using these experiment results.
+We prefered to use MS Excel format for introducing data to R Environment, extracting prediction (or selection) results and making analysis graphically because of its simplicity.
+
+There are 3 folder that contain experimental resources:
+a. 0.FeatureSelectionByBoruta: In this folder, resources about feature selection by Boruta and its results can be found.
+b. 1.AssessingWith10-foldCrossValidation: In this folder, experiment results validated by 10-fold Cross Validation can be found with all variables and variables selected by Boruta.
+c. 2.AssessingWith80-20SeparatedData: In this folder, experiment results validated by 80%-20% Separation can be found with all variables and variables selected by Boruta.
+
+The "Comparison.xlsx" contains the summary and visualization of all results that are also used in the work of Pan et al.
+
+* R Environment: R version 3.3.1 (2016-06-21), Platform: x86_64-w64-mingw32/x64 (64-bit), OS: Windows 8.1 (64-bit), Java 7 Update 80 (64-bit)
+ 

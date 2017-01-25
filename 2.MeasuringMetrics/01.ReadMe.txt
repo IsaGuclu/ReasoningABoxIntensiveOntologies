@@ -1,0 +1,10 @@
+﻿This folder (Measuring Metrics) contains the executable jars (Metrics92.jar and OWL2Predictions.jar) and scripts to call them for measuring 92 Metrics (by Kang et al.) and 51 Metrics propose by Pan et al.
+(The source code of "Measuring 51 Metrics" can be reached from http://sid.cps.unizar.es/projects/OWL2Predictions/IJSWIS17/)
+(As the source code of "Measuring 92 Metrics" is not our contribution, we just put the executable jar used in measuring and recommend researchers to refer to http://users.monash.edu/~yli/metrics_reg/ for more details about "Measuring 92 Metrics".)
+
+In these scripts (Measure....sh), researcher will just need to update the folder address of the ontologies accordingly.
+
+* All experiments about measuring metrics and getting execution times are made on Java SE 7 Update 121 with Ubuntu 14.04 LTS OS. The processor of the desktop computer was "Intel® Core™ i5-3470 CPU @ 3.20GHz × 4". The machine had 16 GB RAM (2 x  8192 MB DDR3 1600 MHz). 
+
+* R Environment: R version 3.3.1 (2016-06-21), Platform: x86_64-w64-mingw32/x64 (64-bit), OS: Windows 8.1 (64-bit), Java 7 Update 80 (64-bit)
+ 
